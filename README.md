@@ -34,8 +34,11 @@
 ---
 
 ### 🛠️ Stack
+### 🛠️ Stack
 
-js ts react angular ionic react native android iOS node express next sql sqlite 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,ionic,reactnative,android,apple,nodejs,express,nextjs,postgres,mysql,sqlite,redis" />
+</p>
 
 ---
 
