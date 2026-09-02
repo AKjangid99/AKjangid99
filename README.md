@@ -34,11 +34,15 @@
 ---
 
 ### 🛠️ Stack
-### 🛠️ Stack
+
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,ionic,reactnative,android,apple,nodejs,express,nextjs,postgres,mysql,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,nextjs,postgres,mysql,sqlite,redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/expo/000000" width="48" height="48" alt="Expo" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" width="48" height="48" alt="Android" />
 </p>
+
 
 ---
 
