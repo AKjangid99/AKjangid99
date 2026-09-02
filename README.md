@@ -13,7 +13,9 @@
 <p align="left">
   <a href="https://github.com/AKjangid99" target="_blank">🐙 GitHub</a>
    | 
-  <a href="https://www.linkedin.com/" target="_blank">💼 LinkedIn</a>
+  <a href="www.linkedin.com/in/ankurjangid" target="_blank">💼 LinkedIn</a>
+   |
+  <a href="https://x.com/AnkurJangid02" target="_blank">🐦 X / Twitter</a>
 </p>
 
 ---
