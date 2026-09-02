@@ -73,16 +73,6 @@ Working on a perpetual futures exchange from the ground up, including:
 * Advanced backend engineering
 * Performance & scalability
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKjangid99&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKjangid99&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
 
 ### ⚡ A Little About Me
 
