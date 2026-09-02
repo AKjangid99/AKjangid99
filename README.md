@@ -38,7 +38,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,nextjs,postgres,mysql,sqlite,redis" />
   <img src="https://cdn.simpleicons.org/ionic/53B9FF" width="48" height="48" alt="Ionic" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React Native" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" width="48" height="48" alt="Android" />
   <img src="https://cdn.simpleicons.org/expo/4630EB" width="48" height="48" alt="Expo" />
 </p>
