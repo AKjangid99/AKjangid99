@@ -3,7 +3,7 @@
 
 <p align="left">
   Software Engineer · Full-stack & Backend · India<br/>
-  Building scalable systems, real-time applications, and products end-to-end.
+  Building scalable systems, real-time applications, Mobile apps, and products end-to-end.
 </p>
 
 ---
@@ -14,7 +14,7 @@
   <a href="https://github.com/AKjangid99" target="_blank">🐙 GitHub</a>
    | 
   <a href="www.linkedin.com/in/ankurjangid" target="_blank">💼 LinkedIn</a>
-   |
+   | 
   <a href="https://x.com/AnkurJangid02" target="_blank">🐦 X / Twitter</a>
 </p>
 
