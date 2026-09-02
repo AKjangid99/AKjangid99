@@ -73,6 +73,7 @@ Working on a perpetual futures exchange from the ground up, including:
 * Advanced backend engineering
 * Performance & scalability
 
+---
 
 ### ⚡ A Little About Me
 
